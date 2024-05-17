@@ -15,7 +15,7 @@ To help with my trip planning, I have decided to do a climate analysis about the
 
 The following sections outline the steps that I took to accomplish this task.
 
-# **Instructions: **
+# **Instructions:**
 
 **Part 1: Analyze and Explore the Climate Data**
 
