@@ -18,7 +18,7 @@ The following sections outline the steps that I took to accomplish this task.
 # **Instructions:**
 
 **Part 1: Analyze and Explore the Climate Data**
-
+You are able to view the analysis in the SurfUp file by following this link: [climate_data]SurfsUp/climate_data.ipynb
 In this section, I will use Python and SQLAlchemy to do a basic climate analysis and data exploration of my climate database. Specifically, i'll use SQLAlchemy ORM queries, Pandas, and Matplotlib. To do so, complete the following steps:
 
 - I’ll use the provided files (climate_starter.ipynb and hawaii.sqlite) to complete the climate analysis and data exploration.
