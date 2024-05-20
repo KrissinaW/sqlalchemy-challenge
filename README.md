@@ -62,7 +62,7 @@ You are able to view the analysis in the SurfUp file by following this link: [cl
 # **Part 2: Design Your Climate App**
 Now that I have completed the initial analysis, I will design a Flask API based on the queries that were just developed. 
 
-You are able to view the Climate App in the SurfUp file by following this link: [climate_data](SurfsUp/Climate_app.py)
+You are able to view the Climate App in the SurfUp file by following this link: [climate_app](SurfsUp/Climate_app.py)
 
 To do so, I will use Flask to create routes as follows:
 
