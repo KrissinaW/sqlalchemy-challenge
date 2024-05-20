@@ -96,5 +96,11 @@ To do so, I will use Flask to create routes as follows:
 
         * For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive.
 
-# **Resources used:** 
+## Acknowledgements
+This project was assisted by using [ChatGPT](https://www.openai.com/research/chatgpt), a language model developed by OpenAI.
+
+Special thanks to OpenAI for creating ChatGPT, which was instrumental in generating ideas, troubleshooting code, and improving the overall project structure.
+
+## References
+- OpenAI. (2023). ChatGPT. Retrieved from https://www.openai.com/research/chatgpt
 
