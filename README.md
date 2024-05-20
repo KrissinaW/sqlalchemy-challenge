@@ -18,8 +18,10 @@ The following sections outline the steps that I took to accomplish this task.
 # **Instructions:**
 
 **Part 1: Analyze and Explore the Climate Data**
-You are able to view the analysis in the SurfUp file by following this link: [climate_data]SurfsUp/climate_data.ipynb
+
 In this section, I will use Python and SQLAlchemy to do a basic climate analysis and data exploration of my climate database. Specifically, i'll use SQLAlchemy ORM queries, Pandas, and Matplotlib. To do so, complete the following steps:
+
+You are able to view the analysis in the SurfUp file by following this link: [climate_data](SurfsUp/climate_data.ipynb)
 
 - I’ll use the provided files (climate_starter.ipynb and hawaii.sqlite) to complete the climate analysis and data exploration.
 
@@ -59,6 +61,9 @@ In this section, I will use Python and SQLAlchemy to do a basic climate analysis
 
 # **Part 2: Design Your Climate App**
 Now that I have completed the initial analysis, I will design a Flask API based on the queries that were just developed. 
+
+You are able to view the Climate App in the SurfUp file by following this link: [climate_data](SurfsUp/climate_data.ipynb)
+
 To do so, I will use Flask to create routes as follows:
 
 1. /
